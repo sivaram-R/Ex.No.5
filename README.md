@@ -1,3 +1,6 @@
+## EXP 5: COMPARATIVE ANALYSIS OF DIFFERENT TYPES OF PROMPTING PATTERNS AND EXPLAIN WITH VARIOUS TEST SCENARIOS
+## Aim:
+To test and compare how different pattern models respond to various prompts (broad or unstructured) versus basic prompts (clearer and more refined) across multiple scenarios. Analyze the quality, accuracy, and depth of the generated responses
 ## 1. Introduction
 
 Artificial Intelligence (AI) has undergone significant transformation over the past decade, with Large Language Models (LLMs) leading the way in natural language understanding and generation. These models are capable of producing human-like responses, completing tasks, and assisting with decision-making. However, their effectiveness largely depends on the quality of the input prompt provided.
